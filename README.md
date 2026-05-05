@@ -1,6 +1,6 @@
 ## Hi there 👋
 👋 Hi, I'm Aditya Majumder
-
+<img width="450" height="245" alt="image" src="https://github.com/user-attachments/assets/0062ef71-6a72-467e-82f0-6b66f83bad06" />
 🎓 BBA Student @ Assam Down Town University
 📊 Aspiring Business Analyst | Data Enthusiast
 
